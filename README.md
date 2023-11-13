@@ -3,11 +3,11 @@
 # Credit_Data Analysis.
 # Aim : Analysis Of Credit Data in Data Science.
 ## Procedure:
-Step:1 Importing necessary packages
-Step:2 read the data set
-Step:3 Execute the methods
-Step:4 run the program
-Step:5 get the output
+### Step:1 Importing necessary packages
+### Step:2 read the data set
+### Step:3 Execute the methods
+### Step:4 run the program
+### Step:5 get the output
 
 
 
